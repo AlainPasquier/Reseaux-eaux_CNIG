@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg9" width="100" height="100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata829">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>ASTEE</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>ASTEE; Le Grand Lyon</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:language>FR</dc:language>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>eau</rdf:li>
+      <rdf:li>potable</rdf:li>
+      <rdf:li>assainissement</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:date/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <circle id="circle3" cx="50" cy="50" r="46.75" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="6"/>
+ <g id="g832" transform="translate(.39373 .3935)">
+  <path id="path5" d="m48.46 49.605c0.91-0.951 1.443-0.897 2.294 0l20.913 26.775c0.598 0.61 0.567 1.4-0.82 1.396h-42.855c-1.276 0.02-1.3-0.84-0.57-1.396z"/>
+  <path id="path7" d="m50.754 49.605c-0.909 0.95-1.442 0.897-2.294 0l-20.914-26.77c-0.596-0.61-0.569-1.4 0.822-1.398h42.852c1.275-0.02 1.302 0.84 0.57 1.397z"/>
+ </g>
+</svg>

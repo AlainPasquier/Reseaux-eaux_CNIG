@@ -1,0 +1,16 @@
+GIMP Palette
+Name: QGIS Palette
+Columns: 4
+#
+255   0   0	ELEC...
+254 255   0	GAZ
+255 170   0	CHEM
+  0 192 255	AEP
+  0 255 153	AUTREAU
+ 79  52   4	ASS...
+189 161 111	PINS
+ 79  52   4	DECH
+ 98  49 125	CHAU
+ 13 234  19	COM
+234  13 205	MULTI
+  0   0   0	00-NON DÉFINI

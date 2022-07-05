@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2371" width="100" height="100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata829">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>ASTEE</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>ASTEE; Le Grand Lyon</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:language>FR</dc:language>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>eau</rdf:li>
+      <rdf:li>potable</rdf:li>
+      <rdf:li>assainissement</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:date/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <circle id="circle2365" transform="rotate(90)" cx="50" cy="-50" r="47.218" fill="#fff" stroke="#000" stroke-width="6"/>
+ <g id="g2399" transform="translate(.3935 .39421)">
+  <path id="path2367" d="m16.218 82.994c18.787 18.786 49.485 17.296 66.777 0l-33.388-33.389z"/>
+  <path id="path2369" d="m82.994 16.216c-18.786-18.786-49.482-17.292-66.775 1e-3l33.388 33.388z"/>
+ </g>
+</svg>

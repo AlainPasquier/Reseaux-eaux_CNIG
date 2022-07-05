@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg10" width="100" height="100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata829">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>ASTEE</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>ASTEE; Le Grand Lyon</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:language>FR</dc:language>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>eau</rdf:li>
+      <rdf:li>potable</rdf:li>
+      <rdf:li>assainissement</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:date/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer2">
+  <path id="path2" d="m49.994 4.2734c-15.877 0-32.476 5.7228-28.822 15.801 1.71 4.719 8.114 9.243 14.446 12.737l-7.874 58.007v0.07c0 3.645 14.193 6.599 21.561 6.599s21.273-2.952 21.273-6.597v-0.08l-7.529-57.466c6.534-3.542 13.485-8.28 15.608-13.27 4.33-10.173-12.78-15.801-28.663-15.801zm-0.08 1.9512c14.753 0 26.711 3.9874 26.711 8.9084 0 4.92-12.708 6.978-27.461 6.978s-25.962-2.058-25.962-6.978c0-4.921 11.959-8.9084 26.712-8.9084z" stroke="#000" stroke-width=".1"/>
+ </g>
+ <g id="layer1">
+  <path id="path8-5" d="m50.001 6.224c14.753 0 26.712 3.988 26.712 8.909 0 4.92-12.709 6.978-27.462 6.978s-25.963-2.058-25.963-6.978c0-4.921 11.96-8.909 26.713-8.909z" fill="#fff" stroke-miterlimit="8"/>
+ </g>
+</svg>
