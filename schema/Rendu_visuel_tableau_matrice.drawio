@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T13:46:23.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.148 Safari/537.36 Edg/102.0.1245.56" etag="eQvWXO6-uoWlPnYbYBoC" version="20.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-08T10:47:18.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.47" etag="7a7U0KMkgy9N2_34tP9-" version="20.1.4" type="github" pages="3">
   <diagram id="ribwvDIJ7XAnKIKJew9f" name="ASST">
-    <mxGraphModel dx="1354" dy="735" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="FwQixoaKQ8ruiwz_hwjn-0" />
         <mxCell id="FwQixoaKQ8ruiwz_hwjn-1" parent="FwQixoaKQ8ruiwz_hwjn-0" />
@@ -293,7 +293,7 @@
         <mxCell id="4ZloDgfOX8Aua32k_95m-3" value="entreprise de pose" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="4ZloDgfOX8Aua32k_95m-0" vertex="1">
           <mxGeometry y="364" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PWkNDWRc0w48Sj9Np88k-0" value="En service (en service, arrêt, abandon)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="4ZloDgfOX8Aua32k_95m-0">
+        <mxCell id="PWkNDWRc0w48Sj9Np88k-0" value="En service (en service, arrêt, abandon)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="4ZloDgfOX8Aua32k_95m-0" vertex="1">
           <mxGeometry y="390" width="200" height="36" as="geometry" />
         </mxCell>
         <mxCell id="4ZloDgfOX8Aua32k_95m-9" value="longueur réelle terrain" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="4ZloDgfOX8Aua32k_95m-0" vertex="1">
@@ -2097,7 +2097,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D08KScato_d1FvJINHdB" name="EPL">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="lbf6WKIvhk4C98_1f_0J-0" />
         <mxCell id="lbf6WKIvhk4C98_1f_0J-1" parent="lbf6WKIvhk4C98_1f_0J-0" />
@@ -2563,6 +2563,79 @@
         </mxCell>
         <mxCell id="pz3LAiYBWFxrWLdhaiU1-0" value="Mise à jour 21/06/2022" style="text;html=1;strokeColor=#d79b00;fillColor=#ffcd28;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;gradientColor=#ffa500;" parent="lbf6WKIvhk4C98_1f_0J-1" vertex="1">
           <mxGeometry x="480" y="240" width="183" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;h1 style=&quot;font-size: 28px; margin: 20px 0px 30px; font-family: &amp;quot;Jost*&amp;quot;, sans-serif; font-weight: 500; line-height: 32.2px; padding-bottom: 0px; border-bottom: 0px; padding-right: 60px; color: rgb(27, 37, 89); background-color: rgb(255, 255, 255);&quot; class=&quot;h2&quot;&gt;Fascicule 70-II_Ouvrages eaux pluviales&amp;nbsp; - 30/11/2021&lt;/h1&gt;" link="https://www.astee.org/publications/fascicule-70-ii_ouvrages-eaux-pluviales/" id="xtAySCqbg6U1BgmPdJJx-0">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+            <mxGeometry x="1640" y="130.5" width="460" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lbf6WKIvhk4C98_1f_0J-1" source="xtAySCqbg6U1BgmPdJJx-1" target="xtAySCqbg6U1BgmPdJJx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lbf6WKIvhk4C98_1f_0J-1" source="xtAySCqbg6U1BgmPdJJx-1" target="xtAySCqbg6U1BgmPdJJx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-1" value="RECUEIL" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="1940" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lbf6WKIvhk4C98_1f_0J-1" source="xtAySCqbg6U1BgmPdJJx-2" target="xtAySCqbg6U1BgmPdJJx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lbf6WKIvhk4C98_1f_0J-1" source="xtAySCqbg6U1BgmPdJJx-2" target="xtAySCqbg6U1BgmPdJJx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-2" value="STOCKAGE" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="1940" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lbf6WKIvhk4C98_1f_0J-1" source="xtAySCqbg6U1BgmPdJJx-4" target="xtAySCqbg6U1BgmPdJJx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-4" value="RESTITUTION" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="1940" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-6" value="- apport réparti directement par ruissèlement&lt;br&gt;- apport localisé avec des équipements de collecte, transport, injection ou engouffrement" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="2080" y="280" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-8" value="distinguer volume total du volume utile (volume disponible dans l&#39;ouvrage après chaque vidange)&lt;br&gt;indication du taux de vide ?" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="2080" y="440" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-10" value="- répartie par infiltration dans le sol ou sous-sol&lt;br&gt;- localisée par rejet vers milieu ou réseau collecte&lt;br&gt;- éventuellement les deux" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="2080" y="600" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="1880" y="270" width="40" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-17" value="Ouvrages" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="1640" y="370" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-18" value="Noues,fossés" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;fontStyle=0" vertex="1" parent="xtAySCqbg6U1BgmPdJJx-17">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-19" value="puits d&#39;infiltration" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;fontStyle=0" vertex="1" parent="xtAySCqbg6U1BgmPdJJx-17">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-20" value="Tranchées drainates" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;fontStyle=0" vertex="1" parent="xtAySCqbg6U1BgmPdJJx-17">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-21" value="Chaussées à structure réservoir" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;fontStyle=0" vertex="1" parent="xtAySCqbg6U1BgmPdJJx-17">
+          <mxGeometry y="120" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-22" value="bassins à ciel ouvert" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;fontStyle=0" vertex="1" parent="xtAySCqbg6U1BgmPdJJx-17">
+          <mxGeometry y="150" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-23" value="bassins enterrés" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;fontStyle=0" vertex="1" parent="xtAySCqbg6U1BgmPdJJx-17">
+          <mxGeometry y="180" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="lbf6WKIvhk4C98_1f_0J-1" source="xtAySCqbg6U1BgmPdJJx-24" target="xtAySCqbg6U1BgmPdJJx-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2120" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-24" value="Franchissements et cloisons" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="1920" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtAySCqbg6U1BgmPdJJx-27" value="mise en place permet augmentation stockage&lt;br&gt;- pieux verticaux&lt;br&gt;-végétaux&lt;br&gt;-roches(enrochement)&lt;br&gt;-terre (butte)&lt;br&gt;-colisons maçonnées&lt;br&gt;- canalisations munies d&#39;orifice de régulation" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="lbf6WKIvhk4C98_1f_0J-1">
+          <mxGeometry x="2080" y="710" width="370" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
