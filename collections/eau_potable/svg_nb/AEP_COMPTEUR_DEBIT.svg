@@ -1,127 +1,47 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="100"
-   height="100"
-   version="1.1"
-   id="svg13"
-   sodipodi:docname="AEP_COMPTEUR_DEBIT.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs
-     id="defs17" />
-  <sodipodi:namedview
-     id="namedview15"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     units="px"
-     width="100px"
-     inkscape:zoom="3.044"
-     inkscape:cx="40.408"
-     inkscape:cy="59.298"
-     inkscape:window-width="1598"
-     inkscape:window-height="837"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13" />
-  <metadata
-     id="metadata829">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>ASTEE</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title>ASTEE; Le Grand Lyon</dc:title>
-          </cc:Agent>
-        </dc:contributor>
-        <dc:language>FR</dc:language>
-        <dc:subject>
-          <rdf:Bag>
-            <rdf:li>eau</rdf:li>
-            <rdf:li>potable</rdf:li>
-            <rdf:li>assainissement</rdf:li>
-          </rdf:Bag>
-        </dc:subject>
-        <dc:date />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <!-- fleche -->
-  <g
-     id="g875"
-     transform="translate(0.394,0.3935)">
-    <path
-       fill="#ffffff"
-       fill-opacity="1"
-       stroke="#000000"
-       stroke-width="0.6"
-       stroke-miterlimit="10"
-       d="m 24.606,92.908 -25,-43.302 25,-43.301 h 50 l 25,43.301 -25,43.302 z"
-       id="path3"
-       style="stroke:#000000;stroke-width:3;stroke-miterlimit:6.8;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       fill="#ffffff"
-       fill-opacity="1"
-       d="m 19.329,48.895 c 0,-16.162 13.535,-29.265 30.228,-29.265 16.695,0 30.229,13.104 30.229,29.265 0,16.165 -13.533,29.267 -30.229,29.267 C 32.863,78.163 19.329,65.06 19.329,48.895 Z"
-       id="path5"
-       style="stroke:#000000;stroke-width:3;stroke-miterlimit:6.8;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       fill="#ffffff"
-       fill-opacity="1"
-       stroke="#000"
-       stroke-width="3"
-       stroke-miterlimit="8"
-       d="m 19.329,48.895 c 0,-16.162 13.535,-29.265 30.228,-29.265 16.695,0 30.229,13.104 30.229,29.265 0,16.165 -13.533,29.267 -30.229,29.267 C 32.863,78.163 19.329,65.06 19.329,48.895 Z"
-       id="path7"
-       style="stroke:#000000;stroke-width:3;stroke-miterlimit:6.8;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       fill="none"
-       stroke="#00000"
-       stroke-width="3"
-       stroke-miterlimit="8"
-       d="M 17.834,79.583 76.654,25.661"
-       id="path9"
-       style="stroke:#000000;stroke-width:3;stroke-miterlimit:6.8;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       fill="#000000"
-       d="M 69.819,43.05 81.379,21.563 58.994,31.239 Z"
-       id="path11"
-       style="stroke:#000000;stroke-width:3;stroke-miterlimit:6.8;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg13" width="100" height="100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata829">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>ASTEE</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>ASTEE; Le Grand Lyon</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:language>FR</dc:language>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>eau</rdf:li>
+      <rdf:li>potable</rdf:li>
+      <rdf:li>assainissement</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:date/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <!-- fleche -->
+ <g id="g875" transform="translate(.394 .3935)" stroke="#000" stroke-miterlimit="6.8" stroke-width="3">
+  <path id="path3" d="m24.606 92.908-25-43.302 25-43.301h50l25 43.301-25 43.302z" fill="#fff"/>
+  <path id="path5" d="m19.329 48.895c0-16.162 13.535-29.265 30.228-29.265 16.695 0 30.229 13.104 30.229 29.265 0 16.165-13.533 29.267-30.229 29.267-16.694 1e-3 -30.228-13.102-30.228-29.267z" fill="#fff"/>
+  <path id="path7" d="m19.329 48.895c0-16.162 13.535-29.265 30.228-29.265 16.695 0 30.229 13.104 30.229 29.265 0 16.165-13.533 29.267-30.229 29.267-16.694 1e-3 -30.228-13.102-30.228-29.267z" fill="#fff"/>
+  <path id="path9" d="m17.834 79.583 58.82-53.922" fill="none"/>
+  <path id="path11" d="m69.819 43.05 11.56-21.487-22.385 9.676z"/>
+ </g>
 </svg>

@@ -1,104 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="100"
-   height="100"
-   version="1.1"
-   id="svg2887"
-   sodipodi:docname="ASS_DEGRILLEUR.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata829">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>ASTEE</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title>ASTEE; Le Grand Lyon</dc:title>
-          </cc:Agent>
-        </dc:contributor>
-        <dc:language>FR</dc:language>
-        <dc:subject>
-          <rdf:Bag>
-            <rdf:li>eau</rdf:li>
-            <rdf:li>potable</rdf:li>
-            <rdf:li>assainissement</rdf:li>
-          </rdf:Bag>
-        </dc:subject>
-        <dc:date />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2891" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1598"
-     inkscape:window-height="837"
-     id="namedview2889"
-     showgrid="false"
-     inkscape:zoom="4.2514"
-     inkscape:cx="44.927"
-     inkscape:cy="44.339"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2887"
-     inkscape:pagecheckerboard="0"
-     width="100px" />
-  <circle
-     fill="#FFFFFF"
-     fill-opacity="1"
-     stroke="#000000"
-     stroke-width="6"
-     stroke-miterlimit="10"
-     cx="50"
-     cy="50"
-     r="46.083"
-     id="circle2883"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
-  <path
-     fill="#000000"
-     d="m 22.634,12.922 v 74.149 a 45.792,45.792 0 0 0 6.081,3.795 V 9.1274 A 46.025,46.025 0 0 0 22.634,12.922 Z M 53.039,7.6794 c 0,-1.382 -0.216,-2.656 -0.575,-3.698 a 46.87,46.87 0 0 0 -4.93,0 c -0.36,1.042 -0.575,2.316 -0.575,3.698 V 92.315 c 0,1.382 0.214,2.656 0.575,3.698 0.816,0.04 1.638,0.07 2.465,0.07 0.826,0 1.648,-0.02 2.465,-0.07 0.359,-1.042 0.575,-2.316 0.575,-3.698 z m 18.246,1.449 V 90.866 A 45.889,45.889 0 0 0 77.366,87.07 V 12.923 A 46.09,46.09 0 0 0 71.285,9.1284 Z"
-     id="path2885"
-     inkscape:connector-curvature="0"
-     style="stroke:#000000;stroke-opacity:1" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2887" width="100" height="100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata829">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>ASTEE</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>ASTEE; Le Grand Lyon</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:language>FR</dc:language>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>eau</rdf:li>
+      <rdf:li>potable</rdf:li>
+      <rdf:li>assainissement</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:date/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <circle id="circle2883" cx="50" cy="50" r="46.083" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="6"/>
+ <path id="path2885" d="m22.634 12.922v74.149a45.792 45.792 0 0 0 6.081 3.795v-81.739a46.025 46.025 0 0 0-6.081 3.7946zm30.405-5.2426c0-1.382-0.216-2.656-0.575-3.698a46.87 46.87 0 0 0-4.93 0c-0.36 1.042-0.575 2.316-0.575 3.698v84.636c0 1.382 0.214 2.656 0.575 3.698 0.816 0.04 1.638 0.07 2.465 0.07 0.826 0 1.648-0.02 2.465-0.07 0.359-1.042 0.575-2.316 0.575-3.698zm18.246 1.449v81.738a45.889 45.889 0 0 0 6.081-3.796v-74.147a46.09 46.09 0 0 0-6.081-3.7946z" stroke="#000"/>
 </svg>
